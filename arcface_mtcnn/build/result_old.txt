@@ -1,0 +1,192 @@
+./result/270.jpg wangyan.jpg 0.928921
+
+./result/271.jpg wangyan.jpg 0.780249
+
+./result/272.jpg wangyan.jpg 0.839954
+
+./result/273.jpg wangyan.jpg 0.775072
+
+./result/366.jpg yangguofeng.jpg 0.98668
+
+./result/368.jpg sunmengjie.jpg 0.979385
+
+./result/369.jpg sunmengjie.jpg 0.608963
+
+./result/390.jpg chendelin.jpg 0.786952
+
+./result/391.jpg chendelin.jpg 0.667379
+
+./result/392.jpg chendelin.jpg 0.818466
+
+./result/393.jpg majungang.jpg 0.984782
+
+./result/396.jpg linzhisheng.jpg 0.77993
+
+./result/398.jpg wangting.jpg 0.695982
+
+./result/399.jpg wangting.jpg 0.823949
+
+./result/400.jpg wangting.jpg 0.892855
+
+./result/426.jpg yuyang.jpg 0.927951
+
+./result/427.jpg yuyang.jpg 0.75304
+
+./result/434.jpg xiawenwen.jpg 0.917925
+
+./result/436.jpg xuyiming.jpg 0.907175
+
+./result/467.jpg xielimin.jpg 0.747819
+
+./result/468.jpg xielimin.jpg 0.929785
+
+./result/475.jpg xuye.jpg 0.661979
+
+./result/476.jpg xuye.jpg 0.969418
+
+./result/479.jpg zhaoliangliang.jpg 0.821169
+
+./result/480.jpg zhaoliangliang.jpg 0.775191
+
+./result/486.jpg chenhuangrong.jpg 0.954796
+
+./result/495.jpg liukun.jpg 0.954654
+
+./result/496.jpg liukun.jpg 0.750151
+
+./result/497.jpg liukun.jpg 0.870237
+
+./result/498.jpg wanghaofan.jpg 0.958616
+
+./result/499.jpg wanghaofan.jpg 0.835089
+
+./result/510.jpg hewei.jpg 0.914508
+
+./result/516.jpg wangmengchong.jpg 0.967608
+
+./result/517.jpg wangmengchong.jpg 0.951183
+
+./result/518.jpg wangmengchong.jpg 0.901864
+
+./result/519.jpg wangmengchong.jpg 0.950137
+
+./result/520.jpg wangmengchong.jpg 0.863791
+
+./result/521.jpg zhangyu.jpg 0.888239
+
+./result/525.jpg liliangya.jpg 0.918967
+
+./result/528.jpg liliangya.jpg 0.727049
+
+./result/529.jpg panhaoxin.jpg 0.999454
+
+./result/530.jpg liliangya.jpg 0.700034
+
+./result/533.jpg qiuxiaolong.jpg 0.989306
+
+./result/534.jpg qiuxiaolong.jpg 0.976486
+
+./result/537.jpg qiuxiaolong.jpg 0.714586
+
+./result/542.jpg qiuxiaolong.jpg 0.707437
+
+./result/543.jpg qiuxiaolong.jpg 0.628067
+
+./result/544.jpg qiuxiaolong.jpg 0.782252
+
+./result/577.jpg zhuguimiao.jpg 0.874428
+
+./result/617.jpg zhangbenben.jpg 0.976861
+
+./result/618.jpg zhangbenben.jpg 0.57542
+
+./result/619.jpg zhangbenben.jpg 0.884443
+
+./result/634.jpg hangyunfei.jpg 0.826932
+
+./result/635.jpg hangyunfei.jpg 0.750442
+
+./result/637.jpg liuxinji.jpg 0.992482
+
+./result/638.jpg liuxinji.jpg 0.569356
+
+./result/639.jpg liuxinji.jpg 0.953027
+
+./result/640.jpg liuxinji.jpg 0.872011
+
+./result/643.jpg zhangxianyun.jpg 0.822651
+
+./result/655.jpg lijia.jpg 0.739659
+
+./result/667.jpg linyibei.jpg 0.953629
+
+./result/670.jpg linyibei.jpg 0.737041
+
+./result/671.jpg linyibei.jpg 0.881802
+
+./result/674.jpg taoshiqiang.jpg 0.782213
+
+./result/675.jpg taoshiqiang.jpg 0.912895
+
+./result/692.jpg sunxingchen.jpg 0.871427
+
+./result/693.jpg sunxingchen.jpg 0.734893
+
+./result/694.jpg sunxingchen.jpg 0.531193
+
+./result/695.jpg sunxingchen.jpg 0.743083
+
+./result/714.jpg zhangjiyang.jpg 0.740906
+
+./result/715.jpg zhangjiyang.jpg 0.57904
+
+./result/716.jpg zhangjiyang.jpg 0.660267
+
+./result/717.jpg zhangjiyang.jpg 0.643797
+
+./result/744.jpg wangzhan.jpg 0.925124
+
+./result/746.jpg wangzhan.jpg 0.74492
+
+./result/749.jpg wangzhan.jpg 0.750186
+
+./result/758.jpg choujie.jpg 0.88872
+
+./result/759.jpg choujie.jpg 0.994767
+
+./result/762.jpg choujie.jpg 0.842679
+
+./result/763.jpg choujie.jpg 0.842982
+
+./result/764.jpg choujie.jpg 0.818453
+
+./result/765.jpg choujie.jpg 0.986817
+
+./result/766.jpg choujie.jpg 0.835251
+
+./result/767.jpg choujie.jpg 0.614614
+
+./result/771.jpg gongxindong.jpg 0.879711
+
+./result/773.jpg gongxindong.jpg 0.731966
+
+./result/790.jpg liliangya.jpg 0.676985
+
+./result/791.jpg panhaoxin.jpg 0.775069
+
+./result/792.jpg liliangya.jpg 0.94806
+
+./result/793.jpg liliangya.jpg 0.837298
+
+./result/808.jpg wushiyu.jpg 0.976977
+
+./result/811.jpg wushiyu.jpg 0.914554
+
+./result/812.jpg wushiyu.jpg 0.763678
+
+./result/818.jpg gongxindong.jpg 0.976919
+
+./result/838.jpg zhangjiyang.jpg 0.604217
+
+./result/852.jpg lijiao.jpg 0.93031
+
